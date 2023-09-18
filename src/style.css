@@ -6,7 +6,12 @@
 
 body {
   margin: 0;
-  background: linear-gradient(to right, #00aaff, #00ff6c);
+  background: linear-gradient(
+    to right,
+    #36596b,
+    #00ff6c,
+    rgba(0, 0, 255, 0.637)
+  );
 }
 
 .calculator-grid {
